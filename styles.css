@@ -1,0 +1,44 @@
+
+        h1{
+            color:#0000cc; font-family: Lucida Handwriting, sans-serif; text-align: center; text-shadow: 2px 2px;
+        }
+        h2{
+            color:#0000cc; font-family: Lucida Handwriting, sans-serif; text-align: center; text-size-adjust: 20px;
+        }
+         h3{
+            color:#0000cc; font-family: Lucida Handwriting, sans-serif; text-align: center; text-size-adjust: 20px;
+        }
+         p{
+            color:#0000cc; font-family: Lucida Handwriting, sans-serif; text-align: center; text-size-adjust: 15px;    
+        }
+
+
+        table{
+            border:1px solid black;
+            border-collapse: collapse;
+        }
+        th{
+            padding:30px;
+            font-size:20px;
+            color:#0000cc; font-family: Lucida Handwriting, sans-serif; text-align: center; text-size-adjust: 15px;
+            border:1px solid black;
+            border-collapse: collapse;
+        }
+        td{
+            padding:50px;
+            color:#0000cc;
+            font-family: Lucida Handwriting, sans-serif;
+            border:1px solid black;
+            border-collapse: collapse;
+        }
+        li{
+            color:#0000cc; font-family: Lucida Handwriting, sans-serif; text-align: center; text-size-adjust: 15px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+        nav {
+            color:#0000cc; font-family: Lucida Handwriting, sans-serif; text-align: left; text-size-adjust: 3px;
+        }
